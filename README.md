@@ -1,2 +1,2 @@
 Final dev opps project. 
-This is my misstake.
+This is my mistake.
