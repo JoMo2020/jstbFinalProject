@@ -1,3 +1,3 @@
 var myDate = new Date();
 
-consple.log(myDate);
+console.log(myDate);
