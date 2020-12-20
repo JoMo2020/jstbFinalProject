@@ -1,0 +1,23 @@
+{
+  "name": "jstbfinalproject",
+  "version": "1.0.0",
+  "description": "Final dev opps project. \r This is my mistake.\r This was an amazing course and i had a great time as well as learnt so much new and interesting things.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoMo2020/jstbFinalProject.git"
+  },
+  "author": "Joseph St Bernard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoMo2020/jstbFinalProject/issues"
+  },
+  "homepage": "https://github.com/JoMo2020/jstbFinalProject#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "uniq": "^1.0.1"
+  }
+}
